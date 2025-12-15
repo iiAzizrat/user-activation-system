@@ -22,5 +22,11 @@
     "expires": "5537-09-15T22:29:24.826Z",
     "user": "the Boss",
     "admin": true
+  },
+  {
+    "key": "9241864053981041783",
+    "expires": "+038061-03-15T22:32:52.405Z",
+    "user": "Mish",
+    "admin": true
   }
 ]
