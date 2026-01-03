@@ -2,6 +2,8 @@
   {
     "code": "WEEK-ABC123",
     "plan": "week",
-    "used": false
+    "used": true,
+    "usedBy": "TestUser#1234",
+    "usedAt": "2026-01-03T04:05:02.856Z"
   }
 ]
