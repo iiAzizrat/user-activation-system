@@ -1,4 +1,14 @@
 [
-  { "code": "WEEK-ABC123", "plan": "week", "used": false },
-  { "code": "WEEK-NEW-001", "plan": "week", "used": false }
+  {
+    "code": "WEEK-ABC123",
+    "plan": "week",
+    "used": false
+  },
+  {
+    "code": "WEEK-NEW-001",
+    "plan": "week",
+    "used": true,
+    "usedBy": "NewUser#7777",
+    "usedAt": "2026-01-03T04:07:24.039Z"
+  }
 ]
