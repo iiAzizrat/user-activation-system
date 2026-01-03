@@ -52,5 +52,11 @@
     "key": "TEST-KEY-001",
     "expires": "2026-01-10T04:05:02.856Z",
     "admin": false
+  },
+  {
+    "user": "NewUser#7777",
+    "key": "TEST-KEY-777",
+    "expires": "2026-01-10T04:07:24.039Z",
+    "admin": false
   }
 ]
