@@ -1,1 +1,7 @@
-
+[
+  {
+    "code": "WEEK-ABC123",
+    "plan": "week",
+    "used": false
+  }
+]
