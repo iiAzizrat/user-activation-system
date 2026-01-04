@@ -42,12 +42,6 @@
     "admin": true
   },
   {
-    "key": "18087094373001269288",
-    "expires": "2026-01-09T23:11:51.583Z",
-    "user": "X",
-    "admin": false
-  },
-  {
     "user": "TestUser#1234",
     "key": "TEST-KEY-001",
     "expires": "2026-01-10T04:05:02.856Z",
