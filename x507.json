@@ -58,5 +58,11 @@
     "expires": "6480-06-08T14:19:07.568Z",
     "user": "Aziz2",
     "admin": true
+  },
+  {
+    "key": "6206861860037994692",
+    "expires": "2026-01-16T17:12:25.910Z",
+    "user": "bom6er",
+    "admin": false
   }
 ]
