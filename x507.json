@@ -100,5 +100,11 @@
     "expires": "2039-09-27T16:44:52.773Z",
     "user": "mrwankamish",
     "admin": true
+  },
+  {
+    "key": "14867133468314913233",
+    "expires": "2026-01-26T18:07:48.722Z",
+    "user": "zbon",
+    "admin": false
   }
 ]
