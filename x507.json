@@ -106,5 +106,11 @@
     "expires": "2026-03-28T09:11:04.676Z",
     "user": "t3ewd",
     "admin": false
+  },
+  {
+    "key": "9241864053981041783",
+    "expires": "+048322-06-21T09:29:24.428Z",
+    "user": "mshare",
+    "admin": true
   }
 ]
