@@ -1,8 +1,5 @@
 [
   {
-    "key": "321",
-    "expires": "2027-01-23T00:45:40.145Z",
-    "user": "1",
     "key": "321313",
     "expires": "2026-05-26T04:48:20.895Z",
     "user": "321",
@@ -18,12 +15,6 @@
     "key": "MO-910F-8AED-BB41",
     "expires": "2026-05-01T20:10:02.169Z",
     "user": "month 3",
-    "admin": false
-  },
-  {
-    "key": "FIVEM-LHTNW-CQFSA-GYMCP",
-    "expires": "2026-04-12T16:05:22.037Z",
-    "user": "zbonnx 2",
     "admin": false
   },
   {
@@ -127,25 +118,23 @@
     "expires": "2026-04-27T15:35:16.177Z",
     "user": "zvon 3",
     "admin": false
-     },
-    {
+  },
+  {
     "key": "5578433295715348069",
     "expires": "2041-06-21T13:32:59.049Z",
     "user": "mshare 501",
     "admin": true
   },
-      {
+  {
     "key": "9664203138892720534",
     "expires": "2041-06-21T13:32:59.049Z",
     "user": "wkkd1",
     "admin": true
   },
-
   {
     "key": "4485559859118066901",
     "expires": "2026-05-02T04:49:56.657Z",
     "user": "abo 7rb",
     "admin": false
   }
-
 ]
