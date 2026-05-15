@@ -1,188 +1,250 @@
 [
   {
     "key": "321313",
-    "expires": "2026-05-26T04:48:20.895Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "321",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-26T04:48:20.895Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "4909212504424618672",
-    "expires": "2026-05-01T15:09:19.272Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "month 2",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-01T15:09:19.272Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "MO-910F-8AED-BB41",
-    "expires": "2026-05-01T20:10:02.169Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "month 3",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-01T20:10:02.169Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "4918897145185825710",
-    "expires": "2026-05-05T19:08:25.750Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "month 5",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-05T19:08:25.750Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "9241864053981041783",
-    "expires": "2041-06-21T13:32:59.049Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "mshare 501",
-    "admin": true
+    "admin": true,
+    "original_expires": "2041-06-21T13:32:59.049Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "4917540604672669294",
-    "expires": "2026-07-26T15:49:28.555Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "ALF7L",
-    "admin": true
+    "admin": true,
+    "original_expires": "2026-07-26T15:49:28.555Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "10581512680947021520",
-    "expires": "2026-05-07T10:35:58.300Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "month 4",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-07T10:35:58.300Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "4917604353187426619",
-    "expires": "2026-06-13T18:14:00.616Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "ZV 1",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-06-13T18:14:00.616Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "18384221736962486332",
-    "expires": "2041-06-26T12:07:33.741Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "abo s3ed",
-    "admin": false
+    "admin": false,
+    "original_expires": "2041-06-26T12:07:33.741Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "4188842174460346971",
-    "expires": "2026-04-27T11:03:52.700Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "zvon 2",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-04-27T11:03:52.700Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "17616161243692849703",
-    "expires": "2026-04-27T15:35:16.177Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "zvon 3",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-04-27T15:35:16.177Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "5578433295715348069",
-    "expires": "2041-06-21T13:32:59.049Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "mshare 501",
-    "admin": true
+    "admin": true,
+    "original_expires": "2041-06-21T13:32:59.049Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "9664203138892720534",
-    "expires": "2041-06-21T13:32:59.049Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "wkkd1",
-    "admin": true
+    "admin": true,
+    "original_expires": "2041-06-21T13:32:59.049Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "4485559859118066901",
-    "expires": "2026-05-02T04:49:56.657Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "abo 7rb",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-02T04:49:56.657Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "15699084770412003772",
-    "expires": "2026-05-26T05:08:54.276Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "month 7",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-26T05:08:54.276Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "FIVEM-LTFQR-GQDKG-LKAFT",
-    "expires": "2026-05-26T08:50:58.548Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "month 8",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-26T08:50:58.548Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "14871114245600686086",
-    "expires": "2026-05-27T11:01:16.620Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "65",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-27T11:01:16.620Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "WK-A028-3F1F-B254",
-    "expires": "2026-05-04T21:17:24.680Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "zvon 5",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-04T21:17:24.680Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "MACHO-FIVEM-JBYVR-FUBIV",
-    "expires": "2026-05-04T23:22:14.422Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "zvon 6",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-04T23:22:14.422Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "10824467926014267905",
-    "expires": "2026-05-05T22:48:37.685Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "zvon 7",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-05T22:48:37.685Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "FIVEM-IORQQ-SBYCR-ZPAGD",
-    "expires": "2026-05-06T06:51:57.528Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "zvon 8",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-06T06:51:57.528Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "4907470601859589749",
-    "expires": "2026-08-07T20:59:33.083Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "Malek",
-    "admin": true
+    "admin": true,
+    "original_expires": "2026-08-07T20:59:33.083Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "4919174718164732720",
-    "expires": "2026-06-01T01:48:23.336Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "month 9",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-06-01T01:48:23.336Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "4918184698940661984",
-    "expires": "2026-05-08T14:18:23.282Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "zvon 9",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-08T14:18:23.282Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "FIVEM-GGTWC-DBXTU-CYWFZ",
-    "expires": "2026-06-02T19:27:15.172Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "month 10",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-06-02T19:27:15.172Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "4917968200410229773",
-    "expires": "2026-05-15T01:43:32.380Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "zvon 10",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-15T01:43:32.380Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "38438350749112154",
-    "expires": "2026-05-18T15:00:31.890Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "uzpon 1",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-18T15:00:31.890Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "8177764278681996041",
-    "expires": "2026-05-19T12:26:02.824Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "uzpon 2",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-19T12:26:02.824Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "6037374341171183906",
-    "expires": "2026-05-20T14:38:58.967Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "uzpon 3",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-20T14:38:58.967Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "FIVEM-KLFJN-FMNMB-VPJEW",
-    "expires": "2026-05-21T14:04:38.409Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "uzpon 4",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-21T14:04:38.409Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   },
   {
     "key": "4573233672553408648",
-    "expires": "2026-05-22T03:42:06.557Z",
+    "expires": "2000-01-01T00:00:00.000Z",
     "user": "azbon",
-    "admin": false
+    "admin": false,
+    "original_expires": "2026-05-22T03:42:06.557Z",
+    "pause_time": "2026-05-15T08:31:04.597Z"
   }
 ]
