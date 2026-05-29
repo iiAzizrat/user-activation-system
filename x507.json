@@ -6,24 +6,6 @@
     "admin": false
   },
   {
-    "key": "4909212504424618672",
-    "expires": "2026-05-17T08:42:17.739Z",
-    "user": "month 2",
-    "admin": false
-  },
-  {
-    "key": "MO-910F-8AED-BB41",
-    "expires": "2026-05-17T13:43:00.636Z",
-    "user": "month 3",
-    "admin": false
-  },
-  {
-    "key": "4918897145185825710",
-    "expires": "2026-05-21T12:41:24.217Z",
-    "user": "month 5",
-    "admin": false
-  },
-  {
     "key": "9241864053981041783",
     "expires": "2041-07-07T07:05:57.516Z",
     "user": "mshare 501",
@@ -34,12 +16,6 @@
     "expires": "2026-08-11T09:22:27.022Z",
     "user": "ALF7L",
     "admin": true
-  },
-  {
-    "key": "10581512680947021520",
-    "expires": "2026-05-23T04:08:56.767Z",
-    "user": "month 4",
-    "admin": false
   },
   {
     "key": "4917604353187426619",
@@ -54,28 +30,10 @@
     "admin": false
   },
   {
-    "key": "4188842174460346971",
-    "expires": "2026-05-13T04:36:51.167Z",
-    "user": "zvon 2",
-    "admin": false
-  },
-  {
-    "key": "17616161243692849703",
-    "expires": "2026-05-13T09:08:14.644Z",
-    "user": "zvon 3",
-    "admin": false
-  },
-  {
     "key": "5578433295715348069",
     "expires": "2041-07-07T07:05:57.516Z",
     "user": "mshare 501",
     "admin": true
-  },
-  {
-    "key": "4485559859118066901",
-    "expires": "2026-05-17T22:22:55.124Z",
-    "user": "abo 7rb",
-    "admin": false
   },
   {
     "key": "15699084770412003772",
@@ -96,30 +54,6 @@
     "admin": false
   },
   {
-    "key": "WK-A028-3F1F-B254",
-    "expires": "2026-05-20T14:50:23.147Z",
-    "user": "zvon 5",
-    "admin": false
-  },
-  {
-    "key": "MACHO-FIVEM-JBYVR-FUBIV",
-    "expires": "2026-05-20T16:55:12.889Z",
-    "user": "zvon 6",
-    "admin": false
-  },
-  {
-    "key": "10824467926014267905",
-    "expires": "2026-05-21T16:21:36.152Z",
-    "user": "zvon 7",
-    "admin": false
-  },
-  {
-    "key": "FIVEM-IORQQ-SBYCR-ZPAGD",
-    "expires": "2026-05-22T00:24:55.995Z",
-    "user": "zvon 8",
-    "admin": false
-  },
-  {
     "key": "4907470601859589749",
     "expires": "2026-08-23T14:32:31.550Z",
     "user": "Malek",
@@ -129,12 +63,6 @@
     "key": "4919174718164732720",
     "expires": "2026-06-16T19:21:21.803Z",
     "user": "month 9",
-    "admin": false
-  },
-  {
-    "key": "4918184698940661984",
-    "expires": "2026-05-24T07:51:21.749Z",
-    "user": "zvon 9",
     "admin": false
   },
   {
@@ -177,12 +105,6 @@
     "key": "4573233672553408648",
     "expires": "2026-06-06T21:15:05.024Z",
     "user": "azbon",
-    "admin": false
-  },
-  {
-    "key": "9670745410520550247",
-    "expires": "2026-05-22T18:49:33.677Z",
-    "user": "uzpon 5",
     "admin": false
   },
   {
